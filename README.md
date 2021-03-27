@@ -61,7 +61,7 @@ go run deletar_nodemodules.go
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 
-Feito com :purple_heart: por [Arlei F. Farnetani Junior](https://github.com/farnetani)
+Feito com :red_heart: por [Arlei F. Farnetani Junior](https://github.com/farnetani)
 
 [![Github Badge](https://img.shields.io/github/followers/farnetani?style=social)](https://img.shields.io/github/followers/farnetani?style=social)
 [![Instagram Badge](https://img.shields.io/badge/-farnetanijr-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/farnetanijr/)](https://www.instagram.com/farnetanijr)
