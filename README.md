@@ -69,4 +69,4 @@ Feito com :heart: por [Arlei F. Farnetani Junior](https://github.com/farnetani)
 [![Gmail Badge](https://img.shields.io/badge/-farnetani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farnetani@gmail.com)](mailto:farnetani@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Arlei%20F.%20Farnetani%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farnetani/)](https://www.linkedin.com/in/farnetani/)
 
-[![Github Badge](https://img.shields.io/github/followers/farnetani?label=Clique%20aqui%20para%20me%20seguir%20no%20Github&style=plastic)](https://img.shields.io/github/followers/farnetani?label=Clique%20aqui%20para%20me%20seguir%20no%20Github&style=plastic)
+[![Github Badge](https://img.shields.io/github/followers/web4systems?label=Clique%20aqui%20para%20me%20seguir%20no%20Github&style=plastic)](https://img.shields.io/github/followers/web4systems?label=Clique%20aqui%20para%20me%20seguir%20no%20Github&style=plastic)
